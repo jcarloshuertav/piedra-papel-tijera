@@ -16,6 +16,4 @@ Además cuenta con:
 * Diseño responsivo.
 * Tabla dinamica donde se muestran los resultados de las partidas previas.
 
-##Nota
-
-Para su funcionamiento debe de importar la base de datos que se incluye en este repositorio, ya que de lo contrario habra errores
+**Nota:** Para su funcionamiento debe de importar la base de datos que se incluye en este repositorio, ya que de lo contrario habra errores
