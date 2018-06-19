@@ -1,0 +1,42 @@
+body{
+    margin:0;
+}
+.boton{
+    font-family: 'Acme', sans-serif;
+    text-align:center;
+    font-size:2em;
+    background-color: blue;
+    color:white;
+    font-weight:bold;
+    padding:10px;
+    width:100%;
+    border: 2px solid white;
+    cursor:pointer;
+}
+.morado{
+    background-color:purple;
+    height:300px;
+}
+.gris{
+    background-color:lightgray;
+    height:300px;
+}
+.azul{
+    background-color:blue;
+    height:300px;
+}
+.vs{
+    background-color:white;
+    text-align:center;
+    font-weight:bold;
+    font-size:2em;
+    padding:20px;
+    margin:2% 20%;
+}
+.centro{
+    margin:5%;
+}
+.seleccion{
+    margin: 20%;
+    background-color: back;
+}

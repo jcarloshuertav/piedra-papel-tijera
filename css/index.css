@@ -1,0 +1,34 @@
+body{
+    font-family: 'Acme', sans-serif;
+    font-size: 2.2em;
+}
+img{
+    width:150px;
+    align-content: center;
+}
+.izquierda{
+    color:white;
+    background-color:purple;
+    height:400px;
+    width:50%;
+    float:left;
+    text-align:center;
+}
+.derecha{
+    background-color:blue;
+    height:400px;
+    width:50%;
+    float:right;
+}
+.boton{
+    font-size:1.2em;
+    background-color: blue;
+    color:white;
+    font-weight:bold;
+    padding:10px;
+    border: 2px solid white;
+    cursor:pointer;
+}
+.contenido{
+    margin-top:5%;
+}
